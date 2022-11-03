@@ -2,7 +2,7 @@
 ロボットシステム学の練習リポジトリ
 
 # plusコマンド
-![test]()
+![test](https://github.com/tomiyasu18/robosys202x/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足す。
 
