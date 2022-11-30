@@ -8,10 +8,16 @@
 
 ## インストール方法
  * 任意の当レポジトリをクローンして使用できます。
+``
+	git clone https://github.com/Yuto2511/robosys2022.git
+	cd robosys2022
+``
 
 ## 使用方法
-   $ seq 15 | ./plus
-   120
+```
+	$ seq 15 | ./plus
+	120
+```
 
 ## 必要なソフトウェア
 * python
@@ -26,7 +32,7 @@
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
 * このパッケージのコードは、下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを、本人の許可を得て自身の著作としたものです。
 
-  * ryuichiueda/my_slides robosys2022
+  * https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022
 
   * ©202x Hiromu Masuda
 
