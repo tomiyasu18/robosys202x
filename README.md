@@ -1,6 +1,7 @@
 # robosys202x
 * #robosys202xのリポジトリにはplusコマンドが含まれています。
-ロボットシステム学の練習リポジトリ
+
+* このリポジトリはロボットシステム学の練習リポジトリです。
 
 # plusコマンド
 ![test](https://github.com/tomiyasu18/robosys202x/actions/workflows/test.yml/badge.svg)
